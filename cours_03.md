@@ -5,10 +5,9 @@
 Parlez de vous. 
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
-
+Jeux vidéos, animation 3d, desing graphique, le cinéma et la photographie sont tous des choses qui m'interesse dans lesquelles j'aimerais en apprendre plus.
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+Travailler en jeu vidéo et desing graphique
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
