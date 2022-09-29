@@ -3,9 +3,12 @@
 
 ### Points forts
 Nommer deux points forts de votre présentation. 
+- J'étais assez a l'aise (je pense haha) 
+- J'étais clair sur l'information qui était demandé
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
+- Améliorer la qualité du contenu.
+- Améliorer l'originalité
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+La présentation de Khaly était interessante et divertissante.
