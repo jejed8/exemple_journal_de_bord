@@ -11,4 +11,4 @@ Nommer deux points forts de votre présentation.
 - Améliorer l'originalité
 
 ### Présentation préférée
-La présentation de Khaly était interessante et divertissante.
+La présentation de Khaly était interessante et divertissante, et celle de Félix était plutt drole.
