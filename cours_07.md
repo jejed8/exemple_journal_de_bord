@@ -6,10 +6,9 @@ L’objectif de cet exercice est de développer une opinion sur une œuvre multi
 Entre 300 et 400 mots. 
 
 ### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
-
+Oasis immersion à réalisé une exposition interactive sur l'histoire de l'artiste peintre Van Gogh. L'exposition étatit séparée en trois pièces, chacune représentant une partie de la vie de Van gogh. Les pièces étaient répartis en ordre chronologique. L'exposition est réalisée sous formes de projections dans des pièces couvertes de toiles.
 ### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
+Honnetement, l'œvre m'a un peu déçus. Je m'attendais à plus. Lorsque que l'on cherchait osasis immersion sur le web, les résultats de l'exposition sur van gogh étaient différents que celle que nous avons visité. Les autres installations situés dans les autres villes avait l'air mieux réalisés que celles que nous avions visité. Les 3 pièces était un peu simple et banale, et celle qui était interactive n'était pas super engageante comme il aurait fallu qu'elle le soit.
 
 ### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+Je trouve que la compagnie aurait pu mettre plus de pièces, plus d'éléments physique au lieu de juste des projections. Donnez plus envies au visiteurs de vouloir s'engagé (plus immersif). 
